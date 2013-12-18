@@ -21,6 +21,7 @@ $(function(){
             67 : ['MILF'],            
             70 : ['Louie'],
             172 : ['Mini Me'],              
+            221 : ['BrendanFraser'],              
             441 : ['Dr. Evil'],                        
             452 : ['JodieFoster'],            
             565 : ['Schwarzenegger'],                        
