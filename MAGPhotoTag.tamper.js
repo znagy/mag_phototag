@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       MAGPhotoTag
 // @namespace  http://munkatarsak/
-// @version    0.2.2
+// @version    0.2.3
 // @description  useful tagging software
 // @match      http://munkatarsak/colleague/photo/all/1
 // @copyright  2012+, You
