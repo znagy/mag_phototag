@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       MAGPhotoTag
 // @namespace  http://munkatarsak/
-// @version    0.2.3
+// @version    0.2.4
 // @description  useful tagging software
 // @match      http://munkatarsak/colleague/photo/all/1
 // @copyright  2012+, You
@@ -14,7 +14,7 @@ $(function(){
     var the_array = 
         {
 
-            4 : ['nyamm-nyamm'],
+            4 : ['nusika', 'nyamm-nyamm'],
             11 : ['fogaskerék','goofy'],
             12 : ['MILF', 'nyamm-nyamm'],
             13 : ['nyamm-nyamm'],
