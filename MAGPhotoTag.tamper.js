@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       MAGPhotoTag
 // @namespace  http://munkatarsak/
-// @version    0.2.4
+// @version    0.2.5
 // @description  useful tagging software
 // @match      http://munkatarsak/colleague/photo/all/1
 // @copyright  2012+, You
@@ -36,6 +36,7 @@ $(function(){
             236 : ['DianaKrall'],
             255 : ['Leonidas (this is spartaaaaa)'],
             318 : ['KovácsLázár'],
+            323 : ['Maya'],
             377 : ['nyamm-nyamm', 'nyuszika'],
             373 : ['RobertZ\'Dar'],
             424 : ['Karotta'],
